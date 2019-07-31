@@ -1,0 +1,14 @@
+.cortado {
+	width: 400px;
+	height: 600px;
+	overflow: hidden;
+}
+
+.cortado img {
+	height: 100%;
+	min-height: 100%;
+	left: 50%;
+	position: relative;
+	transform: 
+	translateX(-50%)
+}
